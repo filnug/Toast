@@ -192,7 +192,7 @@ $toast-pulls: true !default;
     display: block;
     margin-left: 0;
     margin-right: 0;
-    width: auto;
+    /*width: auto;*/
   }
 
   @media (max-width: $toast-breakpoint-medium) and (min-width: $toast-breakpoint-small) {
